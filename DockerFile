@@ -1,0 +1,4 @@
+FROM microsoft/dotnet:runtime
+WORKDIR /docker.netcore
+COPY out .
+ENTRYPOINT ["dotnet", "docker.netcore.dll"]

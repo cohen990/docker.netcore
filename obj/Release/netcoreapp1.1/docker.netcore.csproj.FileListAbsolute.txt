@@ -1,0 +1,8 @@
+C:\Git\docker.netcore\bin\Release\netcoreapp1.1\docker.netcore.deps.json
+C:\Git\docker.netcore\bin\Release\netcoreapp1.1\docker.netcore.runtimeconfig.json
+C:\Git\docker.netcore\bin\Release\netcoreapp1.1\docker.netcore.runtimeconfig.dev.json
+C:\Git\docker.netcore\obj\Release\netcoreapp1.1\docker.netcore.AssemblyInfo.cs
+C:\Git\docker.netcore\bin\Release\netcoreapp1.1\docker.netcore.dll
+C:\Git\docker.netcore\bin\Release\netcoreapp1.1\docker.netcore.pdb
+C:\Git\docker.netcore\obj\Release\netcoreapp1.1\docker.netcore.dll
+C:\Git\docker.netcore\obj\Release\netcoreapp1.1\docker.netcore.pdb

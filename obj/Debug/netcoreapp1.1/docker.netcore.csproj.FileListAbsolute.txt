@@ -1,0 +1,4 @@
+C:\Git\docker.netcore\bin\Debug\netcoreapp1.1\docker.netcore.deps.json
+C:\Git\docker.netcore\bin\Debug\netcoreapp1.1\docker.netcore.runtimeconfig.json
+C:\Git\docker.netcore\bin\Debug\netcoreapp1.1\docker.netcore.runtimeconfig.dev.json
+C:\Git\docker.netcore\obj\Debug\netcoreapp1.1\docker.netcore.AssemblyInfo.cs
